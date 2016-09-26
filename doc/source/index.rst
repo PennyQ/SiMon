@@ -10,7 +10,14 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+   
+.. automodule:: Simulation Monitor
+   
+Class SimulationInstance
+=========================
+Description for SimulationInstance
+.. autoclass:: Simulation Monitor.SimulationINstance
+   :members:
 
 
 Indices and tables
