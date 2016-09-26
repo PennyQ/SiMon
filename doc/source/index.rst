@@ -11,12 +11,12 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-.. automodule:: Simulation Monitor
+.. automodule:: SiMon
    
-Class SimulationInstance
+Module description
 =========================
-Description for SimulationInstance
-.. autoclass:: Simulation Monitor.SimulationINstance
+Description for module
+.. automodule:: SiMon.simulation_instances
    :members:
 
 
