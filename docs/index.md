@@ -24,7 +24,7 @@ To generate initiation condition for tasks through parameter space, we can
 
 Now under simon_brutus directory, we should have `SiMon.conf` and `ic_generator_brutus.py`, the next step is to modify these two files to match our code.
 
-1. Edit the initial condition generator template (ic_generator_brutus.py) with customized settings, in general, the following three parts require user modification
+1. Edit the initial condition generator template (`ic_generator_brutus.py`) with customized settings, in general, the following three parts require user modification
 
      Parameter space: this part is for users to define their parameter space with value array to iterate
 
@@ -114,4 +114,10 @@ Now you can start running all tasks by running
     
     simon start
     
-And you can always check running status by >>> simon or interactively control simulations by >>> simon -i
+And you can always check running status by 
+
+    simon 
+    
+or interactively control simulations by 
+
+    simon -i
